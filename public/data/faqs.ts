@@ -2,7 +2,7 @@ export const faqs: Array<{ id: number; ques: string; desc: string }> = [
   {
     id: 1,
     ques: "What are the activities?",
-    desc: "Activity like Workshop, mentor session and hackathon will be conducted  in under the Abhyudaya club.",
+    desc: "Activities conducted by Abhyudaya include real-life projects, industry engagements, seminars/workshops, and hackathons. Collectively, all activities are aimed at enhancing skills, learning, and promoting innovation.",
   },
   {
     id: 2,
